@@ -21,3 +21,18 @@ public class PrintingChoices {
         System.out.println( "This" + " " + "is" + " " + "a" + " " + "test.");
     }
 }
+
+The Powershell Output
+
+PS C:\Users\tatom\Documents\src\com\company> javac .\PrintingChoices.java
+PS C:\Users\tatom\Documents\src\com\company> java PrintingChoices
+Alpha
+Bravo
+Charlie
+Delta
+
+EchoFoxtrotGolf
+Hotel
+India
+
+This is a test.
