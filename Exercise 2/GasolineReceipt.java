@@ -27,3 +27,20 @@ public class GasolineReceipt {
         System.out.println( "+------------------------+" );
     }
 }
+
+The Powershell Output
+
+PS C:\Users\tatom\Documents> javac .\GasolineReceipt.java
+PS C:\Users\tatom\Documents> java GasolineReceipt
++------------------------+
+|                        |
+|      CORNER STORE      |
+|                        |
+| 2015-03-29  04:38PM    |
+|                        |
+| Gallons:       10.870  |
+| Price/gallon: $ 2.089  |
+|                        |
+| Fuel total:  $ 22.71   |
+|                        |
++------------------------+
