@@ -40,3 +40,14 @@ public class CreatingVariables {
 
     }
 }
+
+The Powershell Output 
+
+PS C:\Users\tatom\Documents\src\com\company> javac .\CreatingVariables.java
+PS C:\Users\tatom\Documents\src\com\company> java CreatingVariables
+The variable x contains 10
+The value 400 is stored in the variable y.
+The experiment took 4.71 seconds.
+A favorite irrational # is Euler's number: 2.718281828459045
+Hopefully you have more than $1.89!
+My name's Mr. GrahamMitchell
