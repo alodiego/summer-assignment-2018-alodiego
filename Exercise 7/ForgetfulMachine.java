@@ -20,3 +20,16 @@ public class ForgetfulMachine {
 
     }
 }
+
+The Powershell Output 
+
+PS C:\Users\tatom\src\com\company> javac .\ForgetfulMachine.java
+PS C:\Users\tatom\src\com\company> java ForgetfulMachine
+What city is the capital of France?
+Paris
+What is 6 multiplied by 7?
+42
+Enter a number between 0.0 and 1.0.
+0.5
+Is there anything else you would like to say?
+Just in case, we don't have to do the Study Drills right?
