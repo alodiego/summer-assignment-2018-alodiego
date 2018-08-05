@@ -28,3 +28,20 @@ public class EscapeSequencesComments {
         // and comments
     }
 }
+
+The Powershell Output 
+
+PS C:\Users\tatom\src\com\company> javac .\EscapeSequencesComments.java
+PS C:\Users\tatom\src\com\company> java EscapeSequencesComments
+Learn   Java
+        the
+Hard    Way
+
+        Learn Java the Hard "Hard" Way!
+Hello
+Jelly
+Hard to believe, eh?
+Surprised? /* abcde */ Or what did you expect?
+\ // -=- \ //
+\\ \\\ \\\\
+I hope you understand "escape sequences" now.
