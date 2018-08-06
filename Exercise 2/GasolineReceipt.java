@@ -27,3 +27,20 @@ public class GasolineReceipt {
         System.out.println( "+------------------------+" );
     }
 }
+
+The Powershell Output 
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 2> javac .\GasolineReceipt.java
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 2> java GasolineReceipt
++------------------------+
+|                        |
+|         COSCO          |
+|                        |
+| 2018-07-01  02:13PM    |
+|                        |
+| Gallons:       10.002  |
+| Price/gallon: $ 2.089  |
+|                        |
+| Fuel total:  $ 29.56   |
+|                        |
++------------------------+
