@@ -19,20 +19,7 @@ public class PrintingChoices {
 
         System.out.println();
         System.out.println( "This" + " " + "is" + " " + "a" + " " + "test.");
+
+        System.out.println( "I am learning " + "Java the " + "Hard Way!" );
     }
 }
-
-The Powershell Output
-
-PS C:\Users\tatom\Documents\src\com\company> javac .\PrintingChoices.java
-PS C:\Users\tatom\Documents\src\com\company> java PrintingChoices
-Alpha
-Bravo
-Charlie
-Delta
-
-EchoFoxtrotGolf
-Hotel
-India
-
-This is a test.
