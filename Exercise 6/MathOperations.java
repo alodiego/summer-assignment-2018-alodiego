@@ -74,3 +74,24 @@ public class MathOperations {
 
     }
 }
+
+The Powershell Output 
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 6> javac .\MathOperations.java
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 6> java MathOperations
+a is 10, b is 27
+a+b is 37
+a-b is -17
+a+b*3 is 91
+b/2 is 13
+b%10 is 7
+
+x is 1.1
+x*x is 1.2100000000000002
+b/2 is 13.0
+
+doghouse
+
+(f*g) / x is 89.9
+
+(b+a) - z is 2.8461538461538463
