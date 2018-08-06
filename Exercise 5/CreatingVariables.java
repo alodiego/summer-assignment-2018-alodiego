@@ -2,15 +2,17 @@ public class CreatingVariables {
 
     public static void main(String[] args) {
 
-        int x, y, age;
+        int x, y, z, age;
 
-        double seconds, e, checking;
+        double seconds, e, checking, savings;
 
-        String firstname, lastname, title;
+        String firstname, lastname, title, middlename, secondlastname;
 
         x = 10;
 
         y = 400;
+
+        z = 1000;
 
         age = 39;
 
@@ -20,13 +22,19 @@ public class CreatingVariables {
 
         checking = 1.89;
 
+        savings = 10.08;
+
+        secondlastname = "Jones";
+
         firstname = "Graham";
 
         lastname = "Mitchell";
 
+        middlename = "Richard";
+
         title = "Mr.";
 
-        System.out.println( "The variable x contains " + x );
+        System.out.println( "The variable x contains " + x + "." + " And the variable z contains " + z + ".");
 
         System.out.println( "The value " + y + " is stored in the variable y." );
 
@@ -36,18 +44,9 @@ public class CreatingVariables {
 
         System.out.println( "Hopefully you have more than $" + checking + "!" );
 
-        System.out.println( "My name's " + title + " " + firstname + lastname );
+        System.out.println( "Oh wait, you have like $" + savings + " in your savings though.");
+
+        System.out.println( "My name's " + title + " " + firstname + " " + middlename + " " + lastname + " " + secondlastname);
 
     }
 }
-
-The Powershell Output 
-
-PS C:\Users\tatom\Documents\src\com\company> javac .\CreatingVariables.java
-PS C:\Users\tatom\Documents\src\com\company> java CreatingVariables
-The variable x contains 10
-The value 400 is stored in the variable y.
-The experiment took 4.71 seconds.
-A favorite irrational # is Euler's number: 2.718281828459045
-Hopefully you have more than $1.89!
-My name's Mr. GrahamMitchell
