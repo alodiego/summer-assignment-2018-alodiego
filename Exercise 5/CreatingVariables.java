@@ -50,3 +50,15 @@ public class CreatingVariables {
 
     }
 }
+
+The Powershell Output 
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 5> javac .\CreatingVariables.java
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 5> java CreatingVariables
+The variable x contains 10. And the variable z contains 1000.
+The value 400 is stored in the variable y.
+The experiment took 4.71 seconds.
+A favorite irrational # is Euler's number: 2.718281828459045
+Hopefully you have more than $1.89!
+Oh wait, you have like $10.08 in your savings though.
+My name's Mr. Graham Richard Mitchell Jones
