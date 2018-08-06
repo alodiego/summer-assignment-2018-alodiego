@@ -56,21 +56,21 @@ public class MathOperations {
 
         System.out.println( both );
 
+        System.out.println();
+
+        double h, w;
+
+        h = (f*g) - x;
+
+        w = (b+a) / z;
+
+        System.out.println( "(f*g) / x is " + h );
+
+        System.out.println();
+
+        System.out.println( "(b+a) - z is " + w );
+
+        System.out.println();
+
     }
 }
-
-The Powershell Output 
-
-PS C:\Users\tatom\Desktop\src\com\company> java MathOperations
-a is 10, b is 27
-a+b is 37
-a-b is -17
-a+b*3 is 91
-b/2 is 13
-b%10 is 7
-
-x is 1.1
-x*x is 1.2100000000000002
-b/2 is 13.0
-
-doghouse
