@@ -24,3 +24,20 @@ public class PrintingChoices {
         System.out.println( "I am learning " + "Java the " + "Hard Way!" );
     }
 }
+
+The Powershell Output 
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 3> javac .\PrintingChoices.java
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 3> java PrintingChoices
+Alpha
+Bravo
+Charlie
+Delta
+
+EchoFoxtrotGolf
+Hotel
+India
+
+This is a test.
+
+I am learning Java the Hard Way!
