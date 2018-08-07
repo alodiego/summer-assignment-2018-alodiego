@@ -18,18 +18,12 @@ public class ForgetfulMachine {
         System.out.println( "Is there anything else you would like to say?" );
         keyboard.next();
 
+        // The 2nd questions blows up when I type a deciaml number.
+
+        // The 3rd question blows up when I type a letter because it only allows for numeric values
+        // and it blows up when I type a value that exceeds the range of value a "double"
+        // variable can handle because it cannot compute an input that is smaller or larger
+        // than its given limits.
+
     }
 }
-
-The Powershell Output 
-
-PS C:\Users\tatom\src\com\company> javac .\ForgetfulMachine.java
-PS C:\Users\tatom\src\com\company> java ForgetfulMachine
-What city is the capital of France?
-Paris
-What is 6 multiplied by 7?
-42
-Enter a number between 0.0 and 1.0.
-0.5
-Is there anything else you would like to say?
-Just in case, we don't have to do the Study Drills right?
