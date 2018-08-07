@@ -24,3 +24,12 @@ public class Sequencing {
 
     }
 }
+
+The Powershell Output 
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 10> javac .\Sequencing.java
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 10> java Sequencing
+How much is the purchase price? 7.99
+Item price:     7.99
+Sales tax:      0.6591750000000001
+Total cost:     8.649175
