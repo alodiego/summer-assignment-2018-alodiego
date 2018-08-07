@@ -26,3 +26,11 @@ public class BMICalculator1 {
 
     }
 }
+
+The Powershell Output 
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 9> javac .\BMICalculator1.java
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 9> java BMICalculator1
+Your height in inches: 69.5
+Your weight in lbs: 152
+Your BMI is 22.144322535112646
