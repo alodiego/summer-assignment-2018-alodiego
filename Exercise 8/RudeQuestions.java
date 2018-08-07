@@ -60,3 +60,17 @@ public class RudeQuestions {
         // 3.   Integer inputs blow up when typing any value that is not a whole number.
         //      Doubles inputs blow up when you type values lower or higher than its set range.
         //      String inputs blow up when you involve spaces.
+
+The Powershell Output 
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 8> java RudeQuestions
+Hello. What is your name? Diego
+Hi, Diego! How old are you? 17
+So you're 17, eh? That's not very old.
+How much do you weigh, Diego? 152
+152.0! Better keep that quiet!!
+What's your income, Diego? 8.39
+Hopefully that is 8.39 per hour and not per year!
+Lastly, what is your pet's name? Mia
+Mia? That's actually a pretty cool name. And I bet Mia has a great owner.
+Well, thanks for answering my rude questions, Diego.
