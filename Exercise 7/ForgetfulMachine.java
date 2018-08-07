@@ -27,3 +27,15 @@ public class ForgetfulMachine {
 
     }
 }
+
+The Powershell Output 
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 7> java ForgetfulMachine
+What city is the capital of France?
+Paris
+What is 6 multiplied by 7?
+42
+Enter a number between 0.0 and 1.0.
+0.5
+Is there anything else you would like to say?
+Coding is cool, but it's one real pain in the heiny.
