@@ -65,3 +65,22 @@ public class BooleanExpressions {
 
     }
 }
+
+The Powershell Output 
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 12> java BooleanExpressions
+Give me two numbers. First: 24
+Second: 25
+24.0 is LESS THAN 25.0: true
+24.0 is LESS THAN / EQUAL TO 25.0: true
+24.0 is EQUAL TO 25.0: false
+24.0 is NOT EQUAL TO 25.0: true
+24.0 is GREATER THAN 25.0: false
+24.0 is GREATER THAN / EQUAL TO 25.0: false
+
+false false
+false false
+true true
+false false
+true true
+true true
