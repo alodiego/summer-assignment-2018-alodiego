@@ -90,3 +90,28 @@ public class VariableChangeShortcuts {
 
     }
 }
+
+The Powershell Output 
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 11> javac .\VariableChangeShortcuts.java
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 11> java VariableChangeShortcuts
+i: 5    j: 5    k: 5
+i: 8    j: 2    k: 15
+
+i: 5    j: 5    k: 5
+i: 8    j: 2    k: 15
+
+i: 5    j: 5    k: 5
+i: 6    j: 3    k: 15
+
+i: 5    j: 5
+i: 1    j: -2
+
+i: 5    j: 5
+i: 6    j: 4
+
+i: 5
+i: 0
+
+i: 5
+i: 10
