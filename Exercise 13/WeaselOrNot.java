@@ -26,3 +26,12 @@ public class WeaselOrNot {
 
     }
 }
+
+The Powershell Output 
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 13> javac .\WeaselOrNot.java
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 13> java WeaselOrNot
+ Type the word "weasel", please.
+weasel
+You typed what was requested: true
+You ignored polite instructions: false
