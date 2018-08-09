@@ -40,3 +40,13 @@ public class ShallowGrandmother {
 
     }
 }
+
+The Powershell Output   
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 14> javac .\ShallowGrandmother.java
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 14> java ShallowGrandmother
+Enter your age: 17
+Enter your yearly income: 1500
+How cute are you, on a scale from 0.0 to 10.0? 5.0
+How happy do you make them from 0.0 to 10.0? 10.0
+Allowed to date my grandchild? true
