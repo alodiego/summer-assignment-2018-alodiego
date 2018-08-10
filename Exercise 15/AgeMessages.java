@@ -65,8 +65,30 @@ public class AgeMessages {
         }
 
         // If you type in an age greater than 35, that age would surpass all of the, "if", statements. Leaving only, "You are: ", printed onto the terminal.
-
-
-
+        
     }
 }
+
+The Powershell Output(s)
+
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 15> javac .\AgeMessages.java
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 15> java AgeMessages
+How old are you? 17
+ You are:
+        old enough to create a Facebook account
+        old enough to get a driver's license
+        too young to get a tattoo
+        too young to drink alcohol
+        too young to run for President of the U.S.
+                (How sad!)
+        You are too young to retire.
+PS E:\Programming\Melton\Java\Summer Assingment 2018\Exercise 15> java AgeMessages
+How old are you? 65
+ You are:
+        old enough to create a Facebook account
+        old enough to get a driver's license
+        old enough to get a tattoo
+        old enough to drink alcohol
+        old enough to run for President of the U.S.
+                (That's great!)
+        You are old enough to retire!
